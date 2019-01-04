@@ -23,3 +23,11 @@
 **Thoughts**: This is an interesting exercise in logic and Math. I realize late that I can't commit the solutions into Github.
 
 **Link(s) to work**: N\A
+
+### Day 3: January 3, 2018
+
+**Today's Progress**: Working through some more Euler Project problems
+
+**Thoughts**: Learned some string manipulation today. 
+
+**Link(s) to work**: N\A
