@@ -16,3 +16,10 @@
 
 **Link(s) to work**: https://github.com/briliad/pythonforfun/blob/master/collatz.py
 
+### Day 3: January 3, 2018
+
+**Today's Progress**: Started on the Euler Project
+
+**Thoughts**: This is an interesting exercise in logic and Math. I realize late that I can't commit the solutions into Github.
+
+**Link(s) to work**: N\A
